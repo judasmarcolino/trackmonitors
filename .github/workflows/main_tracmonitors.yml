@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tracmonitors'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C343517BC1974A34B1CB636D771AB1B5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFAD96BF7AB747958A1266EF511D513F }}
